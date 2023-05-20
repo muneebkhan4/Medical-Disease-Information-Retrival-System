@@ -1,0 +1,6 @@
+Disease Name: Coronary Artery Disease (CAD)
+Prevalence: CAD is the most common type of heart disease, affecting 18.2 million adults in the United States alone.
+Risk Factors: High blood pressure, high cholesterol, smoking, diabetes, family history of heart disease, and obesity.
+Symptoms: Chest pain or discomfort, shortness of breath, nausea or lightheadedness, and fatigue.
+Treatments: Lifestyle changes such as diet and exercise, medication to control blood pressure and cholesterol, angioplasty or stent placement to open blocked arteries, and coronary artery bypass surgery.
+Preventive Measures: Maintaining a healthy lifestyle, managing medical conditions such as diabetes and high blood pressure, quitting smoking, and getting regular check-ups and screenings.

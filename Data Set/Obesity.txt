@@ -1,0 +1,6 @@
+Disease Name: Obesity
+Prevalence: The prevalence of obesity has doubled since 1980, and in 2014, more than 1.9 billion adults were overweight, with 600 million of them being obese.
+Risk Factors: Genetics, sedentary lifestyle, poor diet, high sugar intake.
+Symptoms: Increased body weight, difficulty breathing, joint pain, fatigue, depression.
+Treatments: Lifestyle changes, medication, surgery.
+Preventive Measures: Regular exercise, balanced diet, weight management, avoiding sugary drinks and processed foods.

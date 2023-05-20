@@ -1,0 +1,6 @@
+Disease Name: Migraine Headaches
+Prevalence: Genetics, hormonal changes, certain foods or drinks, environmental triggers such as bright lights or strong odors, stress, and lack of sleep.
+Symptoms: Intense pain on one or both sides of the head, nausea, vomiting, sensitivity to light or sound, and visual disturbances such as flashing lights or blurred vision.
+Diagnosis: Based on medical history and physical examination, imaging tests are usually not necessary.
+Treatments: Over-the-counter pain relievers such as aspirin, ibuprofen, or acetaminophen, prescription medications such as triptans, preventive medications such as beta-blockers or antidepressants, and alternative therapies such as acupuncture or biofeedback.
+Preventive Measures: Identifying and avoiding triggers, maintaining a healthy lifestyle, regular exercise, and stress management.

@@ -1,0 +1,6 @@
+Disease Name: Salmonella
+Cause: Salmonella bacteria
+Prevalence: Salmonella infection is a common foodborne illness that affects millions of people each year. In the United States, it is estimated that there are 1.2 million cases of Salmonella infection annually.
+Symptoms: Diarrhea, fever, and abdominal cramps.
+Treatments: Antibiotics and supportive care such as rest and hydration.
+Preventive Measures: Proper food handling and preparation, avoiding raw or undercooked eggs and meats, and washing hands frequently.

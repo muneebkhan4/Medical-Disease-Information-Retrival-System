@@ -1,0 +1,7 @@
+Disease Name: Hepatitis Disease 
+Cause: Hepatitis C virus
+Prevalence: Hepatitis C is a major global health problem, with an estimated 71 million people living with chronic hepatitis C infection worldwide. It is most prevalent in certain regions of Africa and Asia, as well as in some countries in Eastern Europe and Central Asia.
+Symptoms: Fatigue, fever, abdominal pain, loss of appetite, nausea, and jaundice. In some cases, it can lead to liver failure and death.
+Diagnosis: Blood tests that detect the presence of hepatitis C virus and liver function tests that measure the levels of liver enzymes in the blood.
+Treatments: Antiviral medications such as direct-acting antivirals and interferon-alpha, supportive care such as rest and hydration, and in some cases, liver transplantation.
+Preventive Measures: Avoiding contact with contaminated blood and bodily fluids, avoiding sharing needles and other injection equipment, and in some cases, targeted screening of high-risk populations for early detection and treatment.

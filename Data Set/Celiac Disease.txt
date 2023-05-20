@@ -1,0 +1,9 @@
+Disease Name: Celiac Disease
+Cause: Celiac disease is caused by an immune reaction to gluten, a protein found in wheat, barley, and rye. The body's immune system mistakenly attacks the lining of the small intestine when gluten is ingested, leading to inflammation and damage to the intestinal villi.
+Prevalence: Celiac disease affects approximately 1% of the global population, but the prevalence can vary across different regions and populations.
+Symptoms: Common symptoms of Celiac disease include abdominal pain, bloating, diarrhea, weight loss, fatigue, and nutrient deficiencies. In some cases, individuals may experience dermatitis herpetiformis, a skin rash associated with gluten sensitivity.
+Treatments: The primary treatment for Celiac disease is adopting a strict gluten-free diet. This involves eliminating all sources of gluten from the diet, including wheat, barley, rye, and their derivatives. In cases where the gluten-free diet alone is not sufficient, additional interventions may be necessary to address nutrient deficiencies and promote healing of the intestine.
+Prevention Measures: While Celiac disease cannot be completely prevented, the following measures may help reduce the risk or delay the onset of symptoms:
+Breastfeeding infants for at least six months, as it may reduce the risk of developing Celiac disease.
+Introducing gluten-containing foods gradually to infants between 4 to 6 months of age, while the child is still being breastfed.
+Genetic screening for individuals with a family history of Celiac disease or associated autoimmune conditions.

@@ -1,0 +1,6 @@
+Disease Name: Lungs Cancer
+Prevalence: Lungs cancer is the most common cancer worldwide, accounting for 11.6% of all cancer cases. In 2020, there were an estimated 2.2 million new cases of lung cancer.
+Risk Factors: Smoking, exposure to radon gas, exposure to secondhand smoke, exposure to certain chemicals and pollutants, and family history of lung cancer.
+Symptoms: Chronic cough, chest pain, shortness of breath, wheezing, and coughing up blood.
+Treatments: Surgery, chemotherapy, radiation therapy, targeted therapy, and immunotherapy.
+Preventive Measures: Avoiding smoking and exposure to harmful substances, getting regular lung cancer screenings, and maintaining a healthy lifestyle.

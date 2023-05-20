@@ -1,0 +1,20 @@
+Disease Name: Glaucoma
+Cause: Glaucoma is a group of eye conditions that damage the optic nerve, which is responsible for transmitting visual signals from the eye to the brain. The exact cause of glaucoma is often related to increased pressure inside the eye, known as intraocular pressure (IOP). However, other factors such as genetics, family history, age, and certain medical conditions can contribute to the development of glaucoma.
+Prevalence: Glaucoma is a leading cause of irreversible blindness worldwide, affecting millions of people. The prevalence of glaucoma increases with age, and certain populations, such as African-Americans, individuals with a family history of glaucoma, and those with certain medical conditions (such as diabetes), may be at higher risk.
+Symptoms: In the early stages, glaucoma may not cause noticeable symptoms. As the disease progresses, symptoms may include:
+Gradual loss of peripheral vision (tunnel vision)
+Patchy blind spots in the central or peripheral vision
+Blurred vision
+Halos around lights
+Severe eye pain
+Headaches
+Nausea and vomiting (in acute angle-closure glaucoma)
+Treatments: Treatment for glaucoma aims to control the intraocular pressure and prevent further damage to the optic nerve. Common approaches include:
+Eye drops: Medicated eye drops are often prescribed to lower intraocular pressure by either reducing the production of fluid in the eye or improving its drainage.
+Oral medications: In some cases, oral medications may be prescribed to lower intraocular pressure.
+Laser therapy: Laser trabeculoplasty or laser peripheral iridotomy can be used to improve the drainage of fluid in the eye and reduce intraocular pressure.
+Surgery: In advanced cases or when other treatments are ineffective, surgical procedures such as trabeculectomy or implantation of drainage devices may be performed to create a new drainage channel for fluid in the eye.
+Prevention Measures: While glaucoma cannot be prevented, certain measures can help reduce the risk or delay the progression of the disease:
+Regular eye exams: Routine eye exams, including measurement of intraocular pressure, can help detect glaucoma in its early stages and enable timely treatment.
+Managing underlying health conditions: Properly managing conditions like diabetes and high blood pressure can help reduce the risk of glaucoma.
+Protecting the eyes: Wearing protective eyewear when engaging in activities that pose a risk of eye injury can help prevent glaucoma associated with eye trauma.

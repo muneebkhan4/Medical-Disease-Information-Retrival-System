@@ -1,0 +1,6 @@
+Disease Name: Diabetes
+Prevalence: According to the World Health Organization (WHO), the global prevalence of diabetes has nearly doubled since 1980, and the number of adults with diabetes has risen from 108 million in 1980 to 422 million in 2014.
+Risk Factors: Genetics, sedentary lifestyle, poor diet, high sugar intake, and obesity.
+Symptoms: Excessive thirst, frequent urination, fatigue, blurred vision, numbness or tingling in the hands or feet, slow healing of cuts and wounds.
+Treatments: Insulin injections, oral medication, lifestyle changes, and surgery.
+Preventive Measures: Regular exercise, balanced diet, weight management, avoiding sugary drinks and processed foods, monitoring blood sugar levels regularly.

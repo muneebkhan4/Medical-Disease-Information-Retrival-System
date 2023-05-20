@@ -1,0 +1,7 @@
+Disease Name: Measles
+Prevalence: Measles is highly contagious and spreads through direct contact with infected droplets from coughing or sneezing, or by touching contaminated surfaces and then touching the nose, mouth, or eyes.
+Symptoms: Fever, cough, runny nose, sore throat, red and watery eyes, and a rash that starts on the face and spreads to the rest of the body are common symptoms of measles.
+Complications: Measles can lead to serious complications like pneumonia, encephalitis, and death, especially in young children and people with weakened immune systems.
+Diagnosis: Physical exam, medical history, and laboratory tests like blood tests and viral culture can be used to diagnose measles.
+Treatment: There is no specific treatment for measles, but rest, fluids, and over-the-counter pain relievers can help reduce fever and pain. Vitamin A supplementation may also be recommended in some cases.
+Prevention: The best way to prevent measles is through vaccination, which is safe and effective. Good hygiene practices like washing hands frequently and avoiding contact with infected individuals can also help prevent the spread of measles.

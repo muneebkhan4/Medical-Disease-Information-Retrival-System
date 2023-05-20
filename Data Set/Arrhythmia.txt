@@ -1,0 +1,6 @@
+Disease Name: Arrhythmia
+Prevalence: Arrhythmia affects approximately 2.7 million Americans.
+Risk Factors: Age, high blood pressure, heart disease, congenital heart defects, and certain medications or drugs.
+Symptoms: Palpitations or fluttering in the chest, dizziness or lightheadedness, chest discomfort, and shortness of breath.
+Treatments: Medications to control heart rate and rhythm, implantable devices such as pacemakers or defibrillators, and surgery to correct underlying heart problems.
+Preventive Measures: Maintaining a healthy lifestyle, managing medical conditions, avoiding stimulants such as caffeine and nicotine, and getting regular check-ups and screenings.

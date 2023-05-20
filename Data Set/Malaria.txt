@@ -1,0 +1,7 @@
+Disease Name: Malaria Disease 
+Cause: Plasmodium falciparum
+Prevalence: Plasmodium falciparum is the most lethal of the four malaria parasites and is responsible for the majority of malaria deaths globally. It is prevalent in sub-Saharan Africa, but also occurs in other regions such as Southeast Asia and South America.
+Symptoms: Fever, chills, headache, muscle pain, and fatigue. In severe cases, it can lead to organ failure and death.
+Diagnosis: Blood tests that detect the presence of the parasite in the blood or rapid diagnostic tests that detect malaria antigens.
+Treatments: Antimalarial medications such as artemisinin-based combination therapies and supportive care such as rest and hydration.
+Preventive Measures: Mosquito control measures such as using insecticide-treated bed nets and indoor residual spraying, taking chemoprophylaxis medication when traveling to high-risk areas, and wearing long-sleeved shirts and pants and using insect repellent.

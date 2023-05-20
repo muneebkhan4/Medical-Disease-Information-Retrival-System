@@ -1,0 +1,6 @@
+Disease Name: Influenza B
+Prevalence: Influenza B viruses are transmitted through respiratory droplets and contact with contaminated surfaces.
+Symptoms: Fever, cough, sore throat, runny or stuffy nose, body aches, and fatigue. In severe cases, it can lead to pneumonia and death.
+Diagnosis: Rapid antigen tests that detect the presence of influenza virus in respiratory secretions or PCR tests that detect viral genetic material.
+Treatments: Antiviral medications such as oseltamivir and zanamivir, and supportive care such as rest and hydration.
+Preventive Measures: Annual vaccination, good hygiene practices such as washing hands frequently and avoiding close contact with sick people, and social distancing measures during flu season.

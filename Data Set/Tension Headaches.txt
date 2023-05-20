@@ -1,0 +1,6 @@
+Disease Name: Tension Headaches
+Prevalence: Stress, tension, poor posture, lack of sleep, dehydration, and eye strain.
+Symptoms: Mild to moderate pain or pressure in the head, tightness or stiffness in the neck and shoulders, and sensitivity to light or noise.
+Diagnosis: Based on medical history and physical examination, imaging tests are usually not necessary.
+Treatments: Over-the-counter pain relievers such as acetaminophen or ibuprofen, stress management techniques such as relaxation exercises and meditation, physical therapy, and correcting poor posture.
+Preventive Measures: Managing stress, getting enough sleep, maintaining good posture, staying hydrated, and taking breaks from prolonged computer or screen use.

@@ -1,0 +1,8 @@
+Disease Name: Mild chickenpox
+Prevalence: Person-to-person contact through respiratory secretions and fluid from blisters
+Symptoms: Fever, headache, fatigue, and a rash that develops into itchy blisters
+Complications: Rare in mild cases, but can include bacterial infections and scarring from blisters
+Diagnosis: Physical examination and confirmation through laboratory tests or imaging studies
+Treatment: Antiviral medications, pain relievers, and topical creams to soothe the rash
+Prevention: Vaccination and good hygiene practices such as washing hands frequently and avoiding close contact with infected individuals
+Transmission: Person-to-person contact through respiratory secretions and fluid from blisters

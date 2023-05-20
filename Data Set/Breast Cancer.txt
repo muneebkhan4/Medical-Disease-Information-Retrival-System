@@ -1,0 +1,6 @@
+Disease Name: Breast Cancer
+Prevalence: Breast cancer is the most common cancer in women worldwide, accounting for 11.7% of all cancer cases. In 2020, there were an estimated 2.3 million new cases of breast cancer.
+Risk Factors: Genetics, age, family history of breast cancer, obesity, sedentary lifestyle, alcohol consumption, and exposure to estrogen.
+Symptoms: Lump or thickening in the breast tissue, changes in breast shape or size, nipple discharge, and breast pain.
+Treatments: Surgery, chemotherapy, radiation therapy, targeted therapy, and hormonal therapy.
+Preventive Measures: Getting regular breast cancer screenings, maintaining a healthy weight, exercising regularly, limiting alcohol consumption, and avoiding exposure to estrogen.

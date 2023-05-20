@@ -1,0 +1,7 @@
+Disease Name: Hepatitis Disease 
+Cause: Hepatitis B virus
+Prevalence: Hepatitis B is a global health problem, with an estimated 292 million people living with chronic hepatitis B infection worldwide. It is most prevalent in Africa and Asia.
+Symptoms: Fatigue, fever, abdominal pain, loss of appetite, nausea, and jaundice. In some cases, it can lead to liver failure and death.
+Diagnosis: Blood tests that detect the presence of hepatitis B virus and liver function tests that measure the levels of liver enzymes in the blood.
+Treatments: Antiviral medications such as entecavir, tenofovir, and interferon-alpha, supportive care such as rest and hydration, and in some cases, liver transplantation.
+Preventive Measures: Vaccination, practicing safe sex, avoiding sharing needles and other injection equipment, and avoiding contact with contaminated blood and bodily fluids.
